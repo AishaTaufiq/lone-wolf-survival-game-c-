@@ -1,0 +1,212 @@
+SCENE 1: Echoes After the Storm
+
+The storm has passed, but the forest feels lifeless and cold.
+Snow blankets the ground, covering familiar paths and memories.
+Your pack is gone. Only blood stains and broken branches remain, whispering of loss.
+
+Choice A: Follow the blood scent
+Choice B: Howl and search your territory
+
+SCENE 2: Frozen Stream
+
+A frozen stream stretches across your path, its surface cracked and uneven.
+Cold air bites at your fur as the ice groans under your weight.
+One mistake could send you into freezing water.
+
+Choice A: Cross the ice quickly
+Choice B: Take a longer, safer path
+
+SCENE 3: Fading Paw Prints
+
+Half-buried paw prints appear ahead, softened by falling snow.
+They are old, but they might still lead to life.
+Your instincts urge you to decide quickly.
+
+Choice A: Track the paw prints
+Choice B: Rest briefly to regain strength
+
+SCENE 4: Cold Wounds
+
+The ice shatters beneath you, plunging your body into freezing water.
+Pain spreads instantly as numbness creeps into your limbs.
+Blood darkens the snow as you pull yourself free.
+
+Choice A: Stop and treat your wounds
+Choice B: Ignore the pain and push forward
+
+SCENE 5: Hunger Without Reward
+
+You follow the scent of prey, but it fades into nothing.
+Your stomach growls, reminding you how long it has been since you last ate.
+Hunger weighs heavier than the snow on your back.
+
+Choice A: Search desperately for prey
+Choice B: Rest and conserve energy
+
+SCENE 6: Lone Gray Wolf
+
+A gray wolf emerges from the trees, watching you carefully.
+Its eyes hold caution rather than aggression.
+This meeting could mean alliance… or danger.
+
+Choice A: Approach calmly
+Choice B: Avoid and move away
+
+SCENE 7: Night Beneath Open Sky
+
+Darkness settles over the forest, bringing unfamiliar sounds and hidden threats.
+The cold deepens as stars appear above you.
+Sleep could restore your strength — or leave you vulnerable.
+
+Choice A: Stay alert through the night
+Choice B: Sleep despite the risks
+
+SCENE 8: Slow Healing
+
+Time passes slowly as your wounds begin to close.
+Every movement sends pain through your body, but rest offers relief.
+Patience may save your life.
+
+Choice A: Rest longer to heal
+Choice B: Move on despite the pain
+
+SCENE 9: Weak Prey
+
+A small rabbit stumbles through the snow, clearly exhausted.
+Your muscles tense, sensing an opportunity for food.
+This chance may not return.
+
+Choice A: Chase the prey
+Choice B: Ignore it and save energy
+
+SCENE 10: Pack Beginnings
+
+Another wolf chooses to walk beside you, matching your pace.
+Trust begins to form through shared survival.
+Leadership now rests on your shoulders.
+
+Choice A: Lead patiently
+Choice B: Assert dominance
+
+SCENE 11: Sudden Ambush
+
+Without warning, claws tear through the silence.
+A rival wolf attacks, fighting for survival or dominance.
+The forest echoes with snarls.
+
+Choice A: Fight back
+Choice B: Flee into the forest
+
+SCENE 12: Hunter’s Scent
+
+The air carries the sharp scent of metal and smoke.
+Human hunters are near, leaving traps and death behind.
+Every instinct screams danger.
+
+Choice A: Avoid the area
+Choice B: Investigate the scent
+
+SCENE 13: Growing Pack
+
+More wolves gather, drawn by strength and survival.
+Your pack grows, but so do its needs.
+The future depends on your decisions.
+
+Choice A: Expand territory
+Choice B: Focus on feeding the pack
+
+SCENE 14: Leadership Challenge
+
+A strong wolf steps forward, challenging your authority.
+The pack forms a silent circle, watching closely.
+Only one path will define your rule.
+
+Choice A: Fight for leadership
+Choice B: Step aside peacefully
+
+SCENE 15: Quiet Crossing
+
+You reach calmer land, untouched by hunters.
+The danger fades, but hunger remains.
+Rest or movement — both carry consequences.
+
+Choice A: Keep moving
+Choice B: Rest and recover   
+Endings: 
+
+ENDING: Killed by Hunters
+
+A sudden gunshot shatters the silence of the forest.
+Pain tears through your body as you collapse into the snow.
+The hunters never see you as a survivor — only a target.
+Your journey ends beneath a sky that offers no mercy.
+
+ENDING: Alpha of the North
+
+You stand tall at the center of your pack, strong and unchallenged.
+Wolves gather around you, their howls echoing through the frozen land.
+Under your leadership, the pack thrives, united and fearless.
+The north remembers your name as its true alpha.
+
+ENDING: Lone Wanderer
+
+You choose survival over companionship.
+The forest becomes both home and enemy as you walk alone.
+No pack follows your trail, only the wind and falling snow.
+You live — but solitude becomes your constant companion.
+
+ENDING: Death by Starvation
+
+Days pass without food, each step weaker than the last.
+Your body slowly shuts down as hunger consumes your strength.
+The forest remains indifferent to your struggle.
+In the end, hunger claims what hope could not save.
+
+ENDING: Heroic Sacrifice
+
+You face danger head-on, protecting your pack without hesitation.
+Claws and blood fill the air as you fight your final battle.
+Though your body falls, your bravery saves the others.
+Your howl fades, but your sacrifice is never forgotten.
+
+ENDING: Death in Battle
+
+The fight is brutal and unforgiving.
+Snow is stained red as strength drains from your body.
+The forest grows silent once more.
+You fall as a warrior, defeated but unbroken.
+
+ENDING: Broken Alpha
+
+You win the challenge through force alone.
+The pack obeys, but fear replaces loyalty.
+Leadership without trust isolates you from your own wolves.
+You stand as alpha — powerful, yet alone.
+
+ENDING: Peaceful Survival
+
+You choose patience, balance, and restraint.
+Life becomes steady, free from constant conflict.
+The pack survives quietly, valuing unity over dominance.
+Sometimes, survival itself is the greatest victory.
+
+ENDING: Exhausted Collapse
+
+Your body can no longer carry you forward.
+Energy drains away as the cold tightens its grip.
+You collapse beneath the open sky, unable to rise again.
+The journey ends not in battle, but in complete exhaustion.
+
+ENDING: Fatal Hunt
+
+Despite weakness, you chase one last chance for food.
+Your legs fail, and the prey escapes into the forest.
+The cold closes in as strength leaves your body.
+A single mistake seals your fate.
+
+ENDING: Frozen Night
+
+You lie down beneath the stars, seeking rest from endless struggle.
+The cold creeps quietly into your bones.
+Sleep takes hold — peaceful and final.
+Morning never comes.
